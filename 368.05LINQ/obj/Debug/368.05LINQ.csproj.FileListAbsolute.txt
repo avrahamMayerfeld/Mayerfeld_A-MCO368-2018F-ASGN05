@@ -1,0 +1,7 @@
+C:\Users\abm8\source\repos\368.05LINQ\368.05LINQ\bin\Debug\368.05LINQ.exe.config
+C:\Users\abm8\source\repos\368.05LINQ\368.05LINQ\bin\Debug\368.05LINQ.exe
+C:\Users\abm8\source\repos\368.05LINQ\368.05LINQ\bin\Debug\368.05LINQ.pdb
+C:\Users\abm8\source\repos\368.05LINQ\368.05LINQ\obj\Debug\368.05LINQ.csprojAssemblyReference.cache
+C:\Users\abm8\source\repos\368.05LINQ\368.05LINQ\obj\Debug\368.05LINQ.csproj.CoreCompileInputs.cache
+C:\Users\abm8\source\repos\368.05LINQ\368.05LINQ\obj\Debug\368.05LINQ.exe
+C:\Users\abm8\source\repos\368.05LINQ\368.05LINQ\obj\Debug\368.05LINQ.pdb
